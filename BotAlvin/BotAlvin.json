@@ -1,0 +1,14 @@
+{
+  "name": "BotAlvin",
+  "version": "1.0",
+  "authors": [
+    "Alvin"
+  ],
+  "description": "Best ever Bot",
+  "homepage": "",
+  "countryCodes": [
+    "idn"
+  ],
+  "platform": ".Net 9.0",
+  "programmingLang": "C# 10.0"
+}
