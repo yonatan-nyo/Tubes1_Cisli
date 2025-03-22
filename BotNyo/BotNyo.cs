@@ -11,7 +11,7 @@ public class BotNyo : Bot
     private Random random = new Random();
     private int moveDirection = 1;
     private int wallHitCount = 0;
-    private const double WALL_MARGIN = 30;
+    private const double WALL_MARGIN = 100;
     private const double DANGER_DISTANCE = 200;
 
     static void Main(string[] args) => new BotNyo().Start();
