@@ -1,0 +1,10 @@
+{
+  "name": "DaveBot4",
+  "version": "1.0",
+  "authors": ["Dave Daniell Yanni"],
+  "description": "Strafes left and right while shooting.",
+  "homepage": "",
+  "countryCodes": ["id"],
+  "platform": ".Net 6.0",
+  "programmingLang": "C# 10.0"
+}
