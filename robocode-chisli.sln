@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotNyo", "BotNyo\BotNyo.csproj", "{278E9A0D-99CF-BC14-AE77-964C5CA5769D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaveBot3", "DaveBot3\DaveBot3.csproj", "{3598099F-AF68-2F88-2103-519AC80AA3E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{278E9A0D-99CF-BC14-AE77-964C5CA5769D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{278E9A0D-99CF-BC14-AE77-964C5CA5769D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{278E9A0D-99CF-BC14-AE77-964C5CA5769D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{278E9A0D-99CF-BC14-AE77-964C5CA5769D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3598099F-AF68-2F88-2103-519AC80AA3E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3598099F-AF68-2F88-2103-519AC80AA3E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3598099F-AF68-2F88-2103-519AC80AA3E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3598099F-AF68-2F88-2103-519AC80AA3E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {380FE8E6-B809-4362-8E52-88F4BB3FCB8B}
+	EndGlobalSection
+EndGlobal
