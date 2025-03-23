@@ -1,0 +1,10 @@
+{
+  "name": "CisliMafiaBoss",
+  "version": "2.0",
+  "authors": ["yonatan"],
+  "description": "supa bott mafia boss",
+  "homepage": "",
+  "countryCodes": ["id"],
+  "platform": ".Net 6.0",
+  "programmingLang": "C# 10.0"
+}
