@@ -1,8 +1,8 @@
 {
-  "name": "CisliMafiaBoss",
+  "name": "CisliMafiaBossLv100",
   "version": "2.0",
-  "authors": ["yonatan"],
-  "description": "supa bott mafia boss",
+  "authors": ["cisli"],
+  "description": "supa bott mafia boss lv 100",
   "homepage": "",
   "countryCodes": ["id"],
   "platform": ".Net 6.0",

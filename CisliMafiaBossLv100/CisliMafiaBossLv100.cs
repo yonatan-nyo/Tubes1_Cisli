@@ -3,7 +3,7 @@ using System.Drawing;
 using Robocode.TankRoyale.BotApi;
 using Robocode.TankRoyale.BotApi.Events;
 
-public class CisliMafiaBoss : Bot
+public class CisliMafiaBossLv100 : Bot
 {
     private double enemyX, enemyY, enemyDistance;
     private double enemyEnergy = 100;
@@ -14,9 +14,9 @@ public class CisliMafiaBoss : Bot
     private const double WALL_MARGIN = 100;
     private const double DANGER_DISTANCE = 200;
 
-    static void Main(string[] args) => new CisliMafiaBoss().Start();
+    static void Main(string[] args) => new CisliMafiaBossLv100().Start();
 
-    CisliMafiaBoss() : base(BotInfo.FromFile("CisliMafiaBoss.json")) { }
+    CisliMafiaBossLv100() : base(BotInfo.FromFile("CisliMafiaBossLv100.json")) { }
 
     public override void Run()
     {
