@@ -60,7 +60,7 @@ public class CisliCrewLv10 : Bot
         {
             return 3;
         }
-        if (distance < 200)
+        else if (distance < 200)
         {
             return 2.5;
         }
