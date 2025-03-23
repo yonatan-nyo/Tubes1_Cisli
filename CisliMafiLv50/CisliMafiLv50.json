@@ -1,0 +1,14 @@
+{
+  "name": "CisliMafiLv50",
+  "version": "1.0",
+  "authors": [
+    "Cisli"
+  ],
+  "description": "Bot with a mission to get more aura and social credits",
+  "homepage": "",
+  "countryCodes": [
+    "id"
+  ],
+  "platform": ".Net 6.0",
+  "programmingLang": "C# 10.0"
+}
