@@ -3,17 +3,17 @@ using System.Drawing;
 using Robocode.TankRoyale.BotApi;
 using Robocode.TankRoyale.BotApi.Events;
 
-public class CisliMafiLv50 : Bot
+public class CisliMafiaLv50 : Bot
 {
     int turnDirection = 1; 
     int turnCounter = 0;  
 
     static void Main(string[] args)
     {
-        new CisliMafiLv50().Start();
+        new CisliMafiaLv50().Start();
     }
 
-    CisliMafiLv50() : base(BotInfo.FromFile("CisliMafiLv50.json")) { }
+    CisliMafiaLv50() : base(BotInfo.FromFile("CisliMafiaLv50.json")) { }
 
     public override void Run()
     {   

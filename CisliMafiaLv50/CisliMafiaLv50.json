@@ -1,14 +1,10 @@
 {
-  "name": "CisliMafiLv50",
+  "name": "CisliMafiaLv50",
   "version": "1.0",
-  "authors": [
-    "Cisli"
-  ],
+  "authors": ["Cisli"],
   "description": "Bot with a mission to get more aura and social credits",
   "homepage": "",
-  "countryCodes": [
-    "id"
-  ],
+  "countryCodes": ["id"],
   "platform": ".Net 6.0",
   "programmingLang": "C# 10.0"
 }
