@@ -6,7 +6,7 @@ using System.IO;
 using Microsoft.Extensions.Configuration;
 using System;
 
-public class CisliCrewLv10 : Bot
+public class CisliCrookLv10 : Bot
 {
     int turnCounter;
 
@@ -14,15 +14,15 @@ public class CisliCrewLv10 : Bot
     {
         var builder = new ConfigurationBuilder()
             .SetBasePath(Directory.GetCurrentDirectory())
-            .AddJsonFile("CisliCrewLv10.json");
+            .AddJsonFile("CisliCrookLv10.json");
 
         var config = builder.Build();
         var botInfo = BotInfo.FromConfiguration(config);
 
-        new CisliCrewLv10(botInfo).Start();
+        new CisliCrookLv10(botInfo).Start();
     }
 
-    private CisliCrewLv10(BotInfo botInfo) : base(botInfo) { }
+    private CisliCrookLv10(BotInfo botInfo) : base(botInfo) { }
 
     public override void Run()
     {
