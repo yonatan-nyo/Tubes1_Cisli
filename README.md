@@ -21,7 +21,8 @@ Dalam proyek ini, Cisli membuat 4 bot dengan menggunakan strategi greedy yang da
 
 ## Usage
 
-- Jalankan java -jar robocode-tankroyale-gui-0.30.0.jar pada terminal
+- Jalankan java -jar robocode-tankroyale-gui-0.30.0.jar pada terminal untuk memulaikan robocode.
+- Untuk mengetahui apa saja yang dapat dilakukan dalam aplikasi robocode, silahkan kunjungi tautan berikut https://robocode-dev.github.io/tank-royale/articles/gui.html
 
 ## Authors
 
