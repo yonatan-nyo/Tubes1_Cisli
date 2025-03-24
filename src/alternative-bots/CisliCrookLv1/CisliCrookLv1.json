@@ -1,14 +1,10 @@
 {
-  "name": "ChisliCrookLv1",
+  "name": "CisliCrookLv1",
   "version": "1.0",
-  "authors": [
-    "Cisli"
-  ],
+  "authors": ["Cisli"],
   "description": "Bot with no aura",
   "homepage": "",
-  "countryCodes": [
-    "id"
-  ],
+  "countryCodes": ["id"],
   "platform": ".Net 6.0",
   "programmingLang": "C# 10.0"
 }
